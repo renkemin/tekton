@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/metrics-server/metrics-server:v0.5.0
+FROM kubernetesui/dashboard:v2.3.1
 MAINTAINER renjida <rkemin@163.com>
